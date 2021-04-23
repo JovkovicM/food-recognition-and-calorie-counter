@@ -1,0 +1,21 @@
+label;type;shape;Density(g/cm^3);Calorie(kcal);multiplier
+1;apple;sphere;0.78;52;1
+2;banana;ellipsoid;0.91;89;1
+3;bread;cuboid;0.18;315;0.15
+4;bun;ellipsoid;0.34;223;1
+5;doughnut;ellipsoid;0.31;434;0.6
+6;egg;ellipsoid;1.03;143;1
+7;fired dough twist;ellipsoid;0.58;2416;1
+8;grape;?;0.97;69;1
+9;lemon;ellipsoid;0.96;29;1
+10;litchi;?;1;66;1
+11;mango;ellipsoid;1.07;60;1
+12;mix;-;-1;-1;1
+13;mooncake;cylinder;0.96;1883;0.5
+14;orange;sphere;0.9;63;1
+15;peach;sphere;0.96;57;1
+16;pear;ellipsoid;1002;39;1
+17;plum;sphere;1.01;46;1
+18;qiwi;ellipsoid;0.97;61;1
+19;sachima;cuboid;0.22;2145;0.5
+20;tomato;sphere;0.98;27;1
